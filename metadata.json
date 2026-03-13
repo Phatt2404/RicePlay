@@ -1,0 +1,7 @@
+{
+  "name": "Clay to Life AI",
+  "description": "Animate your clay creations using AI. Take a photo of your clay animal and watch it come to life!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
